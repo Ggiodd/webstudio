@@ -1,0 +1,11 @@
+.how-work{
+    width: 350px;
+    height: 250;px
+
+    background-color: green;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px ;
+    padding-bottom: 20px;
+    border: dashed 2px red;
+}
